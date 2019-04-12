@@ -1,0 +1,30 @@
+{
+  "name": "advanced-console",
+  "version": "0.1.0",
+  "description": "A cmd inplementation in electron",
+  "main": "main.js",
+  "dependencies": {
+    "custom-electron-titlebar": "^3.0.8",
+    "node-cmd": "^3.0.0",
+    "python-shell": "^1.0.7",
+    "xterm": "^3.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danibencze/advanced-console.git"
+  },
+  "keywords": [
+    "console",
+    "electron"
+  ],
+  "author": "Dani Bencze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danibencze/advanced-console/issues"
+  },
+  "homepage": "https://github.com/danibencze/advanced-console#readme"
+}
